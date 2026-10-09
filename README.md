@@ -1,4 +1,4 @@
-# TRICODEX — CYCLONESHIELD AI
+#CYCLONEIMPACT AI
 ### Track-Based Cyclone Impact & Infrastructure Vulnerability Forecaster
 
 > **Theme**: RESILIENCE  
